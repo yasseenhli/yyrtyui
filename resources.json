@@ -1,0 +1,26 @@
+[
+  {
+    "id": "test-stream-real",
+    "title": "مذكرة_النحو",
+    "type": "file",
+    "category": "مذكرات ومستندات",
+    "url": "/sys/test-stream-real",
+    "fileName": "1788954407002_sample_notes.txt",
+    "fileSize": "95 بايت",
+    "description": "تم الرفع والدمج التلقائي في نواة البوابة عبر التدفق عالي السرعة (Non-blocking Stream)",
+    "timestamp": 1788954407004,
+    "downloadsCount": 0
+  },
+  {
+    "id": "test-stream-001",
+    "title": "تجربة_التدفق",
+    "type": "file",
+    "category": "مذكرات ومستندات",
+    "url": "/sys/test-stream-001",
+    "fileName": "1788954344488_stream_test.txt",
+    "fileSize": "0 بايت",
+    "description": "تم الرفع والدمج التلقائي في نواة البوابة عبر التدفق عالي السرعة (Non-blocking Stream)",
+    "timestamp": 1788954344489,
+    "downloadsCount": 0
+  }
+]

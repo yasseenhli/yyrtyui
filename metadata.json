@@ -1,0 +1,6 @@
+{
+  "name": "بوابة الضاد",
+  "description": "منصة تعليمية تفاعلية مخصصة لعلوم اللغة العربية وقواعد النحو والبلاغة والأدب مع تكامل تخزين Google Cloud Storage السحابي اللامحدود ومشاركة المذكرات والدروس في الوقت الفعلي تحت إشراف المعلم عبده بالفتوح.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
